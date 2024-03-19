@@ -1,16 +1,1 @@
-Arduino Uno x 1
-Fingerprint Sensor x 1
-Servomotor sg-90 x 1
-LCD Display (16×2) x 1
-Green led x 1
-Red led x 2
-Resistor (1K) x 3
-Potentiometer (10K) x 1
-Male-Female berge strips x 1nos
-Capacitor (220uf) x 1
-12V DC jack socket x 1
-1-Sides PCB Board x 1
-Push Buttons x 4
-PCB etching kit x 1
-Soldering kit x 1
-Adapter x 1
+Biometric security system use Arduino Uno as a microcontroller where a finger ID will act as a door unlocking system or a key. we made a Biometric locks system using Arduino Uno, which provides control to the door locking system which is servomotor. It is a simple system with take input from finger print sensor and the output give command to servo motor to lock/unlock. The system provides you to delete the finger id using setting buttons. There are 4 setting buttons which gives you full control to customize the system.
